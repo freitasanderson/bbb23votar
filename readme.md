@@ -1,0 +1,1 @@
+Projeto de um Bot para votar no BBB23, feito em Python 3.10.6 usando PyAutoGui.
